@@ -1,0 +1,6 @@
+flask
+flask-sock
+flask-cors
+psutil
+gunicorn
+simple-websocket
